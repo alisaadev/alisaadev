@@ -4,19 +4,15 @@
    <img src="https://komarev.com/ghpvc/?username=alisaadev&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
 </p>
 
-<br>
-
 <div align="center">
-   <img src="https://media.tenor.com/cM3dX0cZS5AAAAAd/shiroko.gif" width="300px">
-</div>
 
-<br>
+   [![My Profile Picture](https://i.postimg.cc/YS2hHybs/IMG-20250719-WA0004.jpg)](https://github.com/alisaadev/cerydra)
+
+</div>
 
 ```sh
 > profile
 ```
-
-<img align="left" src="https://telegra.ph/file/8cd2774a3991e8fdfb7d4.png" width="130px"/> 
 
 ```csharp
 My Profile
@@ -34,9 +30,8 @@ while I am listening music
 
 <div>
 
-<br>
-<br>
-<br>
+## My Favorite Music
+
 <br>
 
 <p align="right"><a href = "https://youtu.be/YzQCNmk3YYA?si=mAaGIQdqHCOVUlcb"><img src = "https://i.ytimg.com/vi/YzQCNmk3YYA/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>青春 あｒ地ヴェ - Seishun archive</b></p>
@@ -50,7 +45,5 @@ while I am listening music
 <br>
 
 <p align="right"><a href="https://www.youtube.com/watch?v=IfMqM-AtnQk"><img src="https://i.ytimg.com/vi/IfMqM-AtnQk/hqdefault.jpg" width="170" align="left"></a><b><br>Yuika - Sukidakara 好きだから ft. Ren</b></p>
-
-<br>
 
 </div>
