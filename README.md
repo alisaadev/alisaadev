@@ -44,6 +44,6 @@ while I am listening music
 <br>
 <br>
 
-<p align="right"><a href="https://www.youtube.com/watch?v=IfMqM-AtnQk"><img src="https://i.ytimg.com/vi/IfMqM-AtnQk/hqdefault.jpg" width="170" align="left"></a><b><br>Yuika - Sukidakara 好きだから ft. Ren</b></p>
+<p align="right"><a href="https://youtu.be/k-K28-A4fBc?si=V0Ynl86DeaslBnRg"><img src="https://i.ytimg.com/vi//k-K28-A4fBc/maxresdefault.jpg" width="170" align="left"></a><b><br>TruE</b></p>
 
 </div>
