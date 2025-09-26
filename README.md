@@ -21,9 +21,10 @@ Username: Alisa Noor Alya
 WhoamI: Normal People
 Telegram: @alisaadev
 FavouriteAnime: 無職 転生 (Mushoku tensei)
-Loves: ロキシー (Roxy), Anime 🎮, Manga 🎹
+FavouriteGame: The NOexistenceN of you AND me
+Loves: リリス (Lilith)
 Location: Planet pluto
-FavouriteSong: 青春 あｒ地ヴェ - Seishun archive
+FavouriteSong: I Wanna Be Yours - Arctic Monkeys
 Hobbies: Watching anime, Read Manga 
 while I am listening music
 ```
