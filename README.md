@@ -19,11 +19,11 @@ My Profile
 -------------------------------
 Username: Alisa Noor Alya
 WhoamI: Normal People
-Telegram: @alisaadev
+Telegram: @alisanoorly
 FavouriteAnime: 無職 転生 (Mushoku tensei)
-FavouriteGame: The NOexistenceN of you AND me
-Loves: リリス (Lilith)
-Location: Planet pluto
+FavouriteGame: Arknight Endfield
+Loves: Zhuang Fangyi
+Location: Wulling city
 FavouriteSong: I Wanna Be Yours - Arctic Monkeys
 Hobbies: Watching anime, Read Manga 
 while I am listening music
