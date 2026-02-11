@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
-<h1 align="center">Hi 👋, I'm Vestia Zeta</h1>
-<h3 align="center">🐍 Python Developer | 🚀 Backend Enthusiast | ⚡ Tech Explorer</h3>
+<h1 align="center">Hi 👋, I'm Alisa</h1>
+<h3 align="center">🐍 Python Developer | 🚀 JavaScript Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=print(%22Hello+World!%22);Building+Cool+Stuff+With+Python;Always+Learning+New+Things;Cyrene+is+my+Wife" />
@@ -11,10 +11,10 @@
 ## 🧠 About Me
 
 ```python
-class VestiaZeta:
+class AlisaNoorAlya:
     def __init__(self):
         self.role = "Backend Developer"
-        self.language = "Python"
+        self.language = ["Python", "JavaScript"]
         self.location = "Indonesia"
         self.current_focus = ["FastAPI", "Automation", "AI"]
         self.goal = "Build scalable & impactful software"
@@ -22,7 +22,7 @@ class VestiaZeta:
     def __str__(self):
         return "Code. Improve. Repeat."
 
-me = VestiaZeta()
+me = AlisaNoorAlya()
 print(me)
 ```
 
