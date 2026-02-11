@@ -1,50 +1,33 @@
-<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+<!-- ===== HEADER ===== -->
+<h1 align="center">Hi 👋, I'm Vestia Zeta</h1>
+<h3 align="center">🐍 Python Developer | 🚀 Backend Enthusiast | ⚡ Tech Explorer</h3>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=alisaadev&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=print(%22Hello+World!%22);Building+Cool+Stuff+With+Python;Always+Learning+New+Things;Cyrene+is+my+Wife" />
 </p>
 
-<div align="center">
+---
 
-   [![My Profile Picture](https://i.postimg.cc/YS2hHybs/IMG-20250719-WA0004.jpg)](https://github.com/alisaadev/cerydra)
+## 🧠 About Me
 
-</div>
+```python
+class VestiaZeta:
+    def __init__(self):
+        self.role = "Backend Developer"
+        self.language = "Python"
+        self.location = "Indonesia"
+        self.current_focus = ["FastAPI", "Automation", "AI"]
+        self.goal = "Build scalable & impactful software"
 
-```sh
-> profile
+    def __str__(self):
+        return "Code. Improve. Repeat."
+
+me = VestiaZeta()
+print(me)
 ```
 
-```csharp
-My Profile
--------------------------------
-Username: Alisa Noor Alya
-WhoamI: Normal People
-Telegram: @alisanoorly
-FavouriteAnime: 無職 転生 (Mushoku tensei)
-FavouriteGame: Arknight Endfield
-Loves: Zhuang Fangyi
-Location: Wulling city
-FavouriteSong: I Wanna Be Yours - Arctic Monkeys
-Hobbies: Watching anime, Read Manga 
-while I am listening music
-```
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
 
-<div>
-
-## My Favorite Music
-
-<br>
-
-<p align="right"><a href = "https://youtu.be/YzQCNmk3YYA?si=mAaGIQdqHCOVUlcb"><img src = "https://i.ytimg.com/vi/YzQCNmk3YYA/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>青春 あｒ地ヴェ - Seishun archive</b></p>
-
-<br>
-<br>
-
-<p align="left"><a href = "https://youtu.be/PaOMF-g1ZWU?si=R4BxcAlW-R62xf3e"><img  src ="https://i.ytimg.com/vi/PaOMF-g1ZWU/maxresdefault.jpg" width="170" align="right"></a><b><br><br>Terhebat - Hololive id</b></p>
-
-<br>
-<br>
-
-<p align="right"><a href="https://youtu.be/k-K28-A4fBc?si=V0Ynl86DeaslBnRg"><img src="https://i.ytimg.com/vi/k-K28-A4fBc/maxresdefault.jpg" width="170" align="left"></a><b><br>TruE</b></p>
-
-</div>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisaadev&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+</p>
